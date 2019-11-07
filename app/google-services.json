@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "879490317958",
+    "firebase_url": "https://e-restaurant-019-120.firebaseio.com",
+    "project_id": "e-restaurant-019-120",
+    "storage_bucket": "e-restaurant-019-120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879490317958:android:b36baca4c8930a5e",
+        "android_client_info": {
+          "package_name": "com.example.e_restautant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879490317958-n2tup7ockl67c1csbvfmbi20rf3k432n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgj-ykltEQ3WDWX5fwkFkzYa4vJ27fYgk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

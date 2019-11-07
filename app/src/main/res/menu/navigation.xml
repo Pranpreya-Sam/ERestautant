@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home"
+        android:layout_centerInParent="true"/>
+
+    <item
+        android:id="@+id/navigation_menu"
+        android:icon="@drawable/menu"
+        android:title="@string/title_menu"/>
+
+    <!--<item-->
+        <!--android:id="@+id/navigation_tracking"-->
+        <!--android:icon="@drawable/tracking"-->
+        <!--android:title="@string/title_tracking"-->
+        <!--android:layout_centerInParent="true"/>-->
+    <item
+        android:id="@+id/navigation_table"
+        android:icon="@drawable/table"
+        android:title="@string/title_table" />
+    <item
+        android:id="@+id/navigation_person"
+        android:icon="@drawable/person"
+        android:title="@string/title_person"
+        android:layout_centerInParent="true"/>
+
+</menu>

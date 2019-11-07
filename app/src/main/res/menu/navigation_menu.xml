@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_pork"
+        android:icon="@drawable/pork"
+        android:title="@string/title_pork"
+        android:layout_centerInParent="true" />
+    <item
+        android:id="@+id/navigation_beef"
+        android:icon="@drawable/beef"
+        android:title="@string/title_beef"
+        android:layout_centerInParent="true" />
+    <item
+        android:id="@+id/navigation_seafood"
+        android:icon="@drawable/seafood"
+        android:title="@string/title_seafood"
+        android:layout_centerInParent="true" />
+    <item
+        android:id="@+id/navigation_vegetable"
+        android:icon="@drawable/vegetable"
+        android:title="@string/title_vegetable"
+        android:layout_centerInParent="true" />
+    <item
+        android:id="@+id/navigation_rice"
+        android:icon="@drawable/rice"
+        android:title="@string/title_rice"
+        android:layout_centerInParent="true" />
+
+</menu>
